@@ -40,3 +40,4 @@ for(let i =0;i<buttonlist.length;i++){
         e.target.classList.add('button_click');
     })
 }
+
